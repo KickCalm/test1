@@ -27,6 +27,7 @@ nut[i].addEventListener('click',function(){
     var thoigian = setInterval(function(){
         var slide = document.querySelector('div.slide div.ra');
         var vitrislide = 0;
+        // Slide Tự động bắt đầu từ For
         for(var i = 0 ; slide = slide.previousElementSibling ; vitrislide ++){
         }
         for(var i = 0 ; i < slides.length; i++){
